@@ -5,4 +5,4 @@ Repositorio colaborativo enfocado en modificar juegos
 | ------------- | ------------- |
 | Participante | Eliuth Balderas - A01703315 |
 | Lider | Jaime López - A00571842  |
-| Supervisor | Raúl Uribe - |
+| Supervisor | Raúl Uribe - A01275964 |
